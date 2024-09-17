@@ -1,5 +1,11 @@
 html {
-    font-family: Arial;
+    font-family: Montserrat;
+    background-color: #385252;
+    color:#ffffe6
+}
+
+a{
+    color: #e9e9c6
 }
 
 /* The sidebar menu */
